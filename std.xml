@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+ <?xml-stylesheet type="text/xsl" href="std.xsl"?>
+ <student>
+  student 1 details:
+ <info>
+    <usn>17btit001</usn>
+	<name> abc</name>
+	<coll>ab</coll>
+	<branch>ece</branch>
+	<yoj>2010</yoj>
+	<email>abc@samp.com</email>
+ </info>
+ student 2 details:
+ <info>
+    <usn>17btit001</usn>
+	<name> abc</name>
+	<coll>ab</coll>
+	<branch>ece</branch>
+	<yoj>2010</yoj>
+	<email>abc@samp.com</email>
+ </info>
+ 
+ student 3 details:
+ <info>
+    <usn>17btit001</usn>
+	<name> abc</name>
+	<coll>ab</coll>
+	<branch>ece</branch>
+	<yoj>2010</yoj>
+	<email>abc@samp.com</email>
+ </info>
+ 
+student 4 details:
+<info>
+    <usn>17btit001</usn>
+	<name> abc</name>
+	<coll>ab</coll>
+	<branch>ece</branch>
+	<yoj>2010</yoj>
+	<email>abc@samp.com</email>
+ </info>
+ 
+student 5 details:
+<info>
+    <usn>17btit001</usn>
+	<name> abc</name>
+	<coll>ab</coll>
+	<branch>ece</branch>
+	<yoj>2010</yoj>
+	<email>abc@samp.com</email>
+ </info>
+ </student>
+ 
